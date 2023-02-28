@@ -255,3 +255,5 @@ document.addEventListener('DOMContentLoaded',()=>{
 
     createBoard()
 })
+
+//The Frontend isnt completed yet
